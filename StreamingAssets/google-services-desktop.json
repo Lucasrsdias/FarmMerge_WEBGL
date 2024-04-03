@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957941867572",
+    "project_id": "yg-d0947c",
+    "storage_bucket": "yg-d0947c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957941867572:android:80ac87285d848ff5e15661",
+        "android_client_info": {
+          "package_name": "com.BeaverGamesStudio.FarmeMerge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957941867572-5t4rodtfk44934dbo99jtkbnl54tioes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsBohPHmUgsUeJiGya8b_6acMSivpJt1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957941867572-5t4rodtfk44934dbo99jtkbnl54tioes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
